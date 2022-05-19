@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Построение диаграмм в Excel", "Построение диаграмм в Excel\Построение диаграмм в Excel.csproj", "{CE4A6862-ED6E-4A2B-9066-4E8EE6D434A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4A6862-ED6E-4A2B-9066-4E8EE6D434A1}.Debug|x86.ActiveCfg = Debug|x86
+		{CE4A6862-ED6E-4A2B-9066-4E8EE6D434A1}.Debug|x86.Build.0 = Debug|x86
+		{CE4A6862-ED6E-4A2B-9066-4E8EE6D434A1}.Release|x86.ActiveCfg = Release|x86
+		{CE4A6862-ED6E-4A2B-9066-4E8EE6D434A1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

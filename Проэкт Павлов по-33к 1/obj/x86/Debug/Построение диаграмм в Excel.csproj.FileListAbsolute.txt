@@ -1,0 +1,58 @@
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+c:\users\safonovar\documents\visual studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.GenerateResource.Cache
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.GenerateResource.Cache
+C:\Users\tvorogleha\Documents\Visual Studio 2010\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form2.resources
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form2.resources
+C:\Users\tvorogleha\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form2.resources
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csprojResolveAssemblyReference.cache
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form2.resources
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+C:\Users\kocharayan\Documents\Visual Studio 2013\Projects\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.GenerateResource.Cache
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.ResolveComReference.cache
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.exe
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.pdb
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.exe
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\bin\Debug\Построение диаграмм в Excel.pdb
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csprojResolveAssemblyReference.cache
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form1.resources
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Form2.resources
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение_диаграмм_в_Excel.Properties.Resources.resources
+C:\Users\sonaa\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.GenerateResource.Cache
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csprojResolveAssemblyReference.cache
+C:\Users\safonovar\Desktop\Построение диаграмм в Excel\Построение диаграмм в Excel\obj\x86\Debug\Построение диаграмм в Excel.csproj.GenerateResource.Cache
